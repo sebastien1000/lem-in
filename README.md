@@ -3,6 +3,8 @@
 
 Un simulateur de fourmilière en Go qui trouve les chemins optimaux pour transporter des fourmis d'une pièce de départ à une pièce de destination via un réseau de tunnels.
 
+Depot GitHub : https://github.com/sebastien1000/lem-in
+
 ## 📋 Vue d'ensemble
 
 **Objectif :** Créer un programme appelé `lem-in` qui lit un fichier de configuration décrivant une fourmilière et simule le déplacement des fourmis du point de départ (`##start`) au point d'arrivée (`##end`) en empruntant les chemins les plus efficaces.
@@ -19,7 +21,7 @@ Le programme utilise un algorithme de recherche de chemins (DFS) pour explorer t
 ### Installation
 
 ```GIT
-git clone https://zone01normandie.org/git/cboucher/lem-in.git
+git clone https://github.com/sebastien1000/lem-in.git
 ```
 
 ### Utilisation
